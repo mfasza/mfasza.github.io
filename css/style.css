@@ -2,11 +2,20 @@ body {
     margin-top: 50px;
 }
 
+ p {
+     text-align: justify;
+ }
+
 .jumbotron img {
     width: 25%;
 }
 
+.jumbotron.bg-primary {
+    color: white;
+}
+
 section {
+    padding-top: 65px;
     min-height: 420px;
 }
 
