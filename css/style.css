@@ -2,7 +2,7 @@ body {
     margin-top: 50px;
 }
 
- p {
+ .portfolio p {
      text-align: justify;
  }
 
@@ -12,6 +12,16 @@ body {
 
 .jumbotron.bg-primary {
     color: white;
+}
+
+
+.card a{
+    color: black;
+    text-decoration: none;
+}
+
+.card a:hover{
+    color: grey;
 }
 
 section {
