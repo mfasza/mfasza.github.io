@@ -15,13 +15,12 @@ body {
 }
 
 section {
-    padding-top: 65px;
-    min-height: 420px;
+    min-height: 600px;
 }
 
 footer {
     min-height: 50px;
-    padding-top:12px;
+    padding-top: 12px;
 }
 
 footer .text-center p {
